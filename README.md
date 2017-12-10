@@ -12,7 +12,6 @@ Cara Install Via Android :
 - pip2 install thrift==0.9.3<br>
 - pkg install git<br>
 - pkg install nano<br>
-- git clone https://github.com/adekrisna/BotCv10akun<br>
 - Selesai
 
 Cara Membuka/Mengedit File :
@@ -39,4 +38,4 @@ Cara Install Via wps :
 - sudo pip install thrift==0.9.3
 - sudo apt-get install git
 - sudo apt-get install nano
-- git clone https://github.com/adekrisna/BotCv10akun
+
