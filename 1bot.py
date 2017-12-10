@@ -11,8 +11,8 @@ import time,random,sys,json,codecs,threading,glob,re,os,subprocess
 #satpam.loginResult()
 
 cl = LINETCR.LINE() #Luffy
-cl.login(token="")
-#cl.login(qr=True)
+#cl.login(token="")
+cl.login(qr=True)
 cl.loginResult()
 
 #ki = LINETCR.LINE() #Zorro
